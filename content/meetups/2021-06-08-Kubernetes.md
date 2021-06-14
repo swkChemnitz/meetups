@@ -12,5 +12,11 @@ Lasst uns diskutieren, über Vorteile und Risiken, über Standardisierung und Al
 
 Andreas Siegel und Holger Dietrich führen durch die Session.
 
+## Slides
+
+{{< slideshare 6uG9oPAHbWHWVx >}}
+
 ## Recording
+
+{{< youtube 7qAv9rX_Wc4 >}}
 
